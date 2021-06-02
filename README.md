@@ -23,4 +23,4 @@ When it came time to include the display, update, and delete features of the mob
 
 *** In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience? ***
 
-I think I was able to successfully implement the login and registration features to the best of my abilities and they function wonderfully. I even took the time to create a much better layou that is appealing and includes visual elements that help the user understand the purpose of certain views. I know that with time and effort comes experience and I look forward to continuing my journey in software development.
+I think I was able to successfully implement the login and registration features to the best of my abilities and they function wonderfully. I even took the time to create a much better layout that is appealing and includes visual elements that help the user understand the purpose of certain views. I know that with time and effort comes experience and I look forward to continuing my journey in software development.
